@@ -1,4 +1,4 @@
-package br.com.barbara.ErrorCenter.controller.dto;
+package br.com.barbara.ErrorCenter.dto;
 
 import java.time.LocalDateTime;
 
